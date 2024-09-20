@@ -1,0 +1,24 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore test coverage reports
+.coverage
+htmlcov/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore logs
+*.log
+
+# Ignore environment variables
+.env
